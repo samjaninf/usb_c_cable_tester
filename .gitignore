@@ -3,13 +3,16 @@
 *.zip
 gerbers/
 gerber/
+production/
 fp-info-cache
 _autosave*
 *auto_saved*
 *.csv
+*.json
 *.xml
 *.pdf
 *.html
+*.kicad_prl
 jlcpcb
 *.lck
 *_old
